@@ -20,7 +20,7 @@ pipeline {
             snykInstallation: 'snyktest',
             snykTokenId: 'snykapitoken',
             failOnIssues: 'false',
-            organisation: 'cass',
+            organisation: 'cass-7dm',
             // place other optional parameters here, for example:
             //additionalArguments: '--all-projects --detection-depth=<DEPTH>'
             )
